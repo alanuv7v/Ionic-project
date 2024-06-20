@@ -1,0 +1,7 @@
+{
+  "name": "node-starter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
